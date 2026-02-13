@@ -1,0 +1,6 @@
+Put these files into this SDK folder:
+- EuroScopePlugIn.h
+- EuroScopePlugInDll.lib (or whatever your SDK .lib is named)
+- EuroScopePlugIn.dll (if needed by EuroScope, not for build)
+
+This repo builds with cl.exe x86.
